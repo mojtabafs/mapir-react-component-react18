@@ -60,10 +60,6 @@
         "rollup-plugin-peer-deps-external": "^2.2.4",
         "rollup-plugin-postcss": "^4.0.1"
     },
-    "peerDependencies": {
-        "react": "^16.11.0 || ^17.0.2 || ^18.0.0 || ^18.2.0",
-        "react-dom": "^16.11.0 || ^17.0.2 || ^18.0.0"
-    },
     "homepage": "https://github.com/map-ir/mapir-react-component#readme",
     "keywords": [
         "mapir",
@@ -94,5 +90,5 @@
         "build": "rollup -c",
         "lint": "eslint src test"
     },
-    "version": "2.0.9"
+    "version": "2.0.12"
 }
